@@ -1,9 +1,3 @@
-Absolutely, Alok 👍
-
-Here’s **Chapter 1: Hindi Sounds and Writing** again — in the same **structured plain-text / printable layout** style as before (not Markdown), perfectly suited for your workbook or A4 layout software (like Canva, Word, or InDesign).
-This includes the bilingual content, Roblox-style storytelling, and image placeholders ready for you to drop in illustrations later.
-
----
 
 # 📘 **Chapter 1 – Hindi Sounds and Writing**
 
