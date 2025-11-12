@@ -1,47 +1,47 @@
-
-![Image: Evan and Elan writing क, का, कि, की in copy book](images/evan-elan-writing.png)
-
----
-
-## 🎲 Section 4 – Games and Activities
-**Game 1:** *Trace the Letter* – Trace vowels and say aloud (अ, आ, इ, ई, उ, ऊ)  
-**Game 2:** *Find the Sound* – Teacher says a letter; students find the matching card.  
-**Game 3:** *Match the Picture* –  
-
-| Picture | Hindi Letter | Word | Meaning |
-|:---------:|:-------------:|:------:|:----------:|
-| 🥭 Mango | आ | आम | Mango |
-| 🦉 Owl | उ | उल्लू | Owl |
-| 🍇 Grapes | अं | अंगूर | Grapes |
+# 📘 Chapter 1: Hindi Sounds and Writing  
+*From “Learn Spoken Hindi with Evan and Elan” – Roblox Cartoon Edition*
 
 ---
 
-## 🧠 Section 5 – Remember This
-- Hindi script is called **Devanagari**.  
-- Write **left to right** with a top line.  
-- 13 vowels and 33 consonants make the Hindi alphabet.  
-- Hindi is **phonetic** – sound equals writing.
+## 🎯 Learning Goal
+Students will recognize, pronounce, and write basic **Hindi letters**  
+(**स्वर – vowels** and **व्यंजन – consonants**) while enjoying dialogues, games, and tracing practice.
 
 ---
 
-## 🧑‍🏫 Teacher Tips & Progress Tracker
-**Tips**
-- Introduce 3–4 letters per day.  
-- Reinforce with flashcards and rhymes.  
-- Use drawings or motions to link sounds and meanings.  
+## 🎨 Scene 1 – Meet Your Teacher
+![Image: Evan and Elan enter classroom with bright colors](images/evan-elan-classroom.png)
 
-**Progress Tracker**
-
-| Activity | Completed (✓) | Teacher Initial |
-|:----------|:--------------:|:----------------:|
-| Tracing Swar (Vowels) |  |  |
-| Speaking Vyanjan (Consonants) |  |  |
-| Writing with Matras |  |  |
-| Games and Flashcards |  |  |
-
-![Image: Teacher smiling as Evan and Elan hold Hindi charts](images/teacher-with-students.png)
+**Teacher (Ms. Ritu):** “Good morning, Evan and Elan! Today we begin our Hindi journey!”  
+**Evan:** “Yay! Will we learn how to write our names in Hindi?”  
+**Teacher:** “Yes, but first we’ll learn the letters and sounds of Hindi.”  
+**Elan:** “Cool! Like A, B, C, D in English?”  
+**Teacher:** “Exactly! But in Hindi we have **अ, आ, इ, ई …** and so on.”  
 
 ---
 
-✅ **End of Chapter 1**  
-Next → **Chapter 2: Greetings and Politeness (नमस्ते, धन्यवाद, माफ़ कीजिए)**
+## 🗣 Section 1 – Vowels (स्वर – Swar)
+Hindi vowels form the foundation of pronunciation. Practice each carefully with examples.
+
+| Hindi | English Sound | Pronunciation | Example Word | Meaning |
+|:------:|:--------------:|:--------------:|:--------------:|:--------|
+| अ | a | uh | अमर | immortal |
+| आ | aa | ah | आम | mango |
+| इ | i | ih | इमली | tamarind |
+| ई | ee | ee | ईख | sugarcane |
+| उ | u | oo (short) | उल्लू | owl |
+| ऊ | oo | oo (long) | ऊन | wool |
+| ए | e | ay | एक | one |
+| ऐ | ai | ai | ऐनक | spectacles |
+| ओ | o | oh | ओखली | mortar |
+| औ | au | ow | औरत | woman |
+| अं | an | nasal | अंगूर | grapes |
+
+**Speak & Repeat Practice:**  
+Say each vowel three times aloud.  
+![Image: Evan tracing letters on whiteboard](images/evan-tracing.png)
+
+---
+
+## 🧱 Section 2 – Consonants (व्यंजन – Vyanjan)
+Hindi has **33 consonants**, grouped by pronunciation families.
